@@ -3,8 +3,6 @@
 Simple wallet app in which users can send and receive money using transactions in a database
 
 
-### Screensoft and Videos
-https://github.com/Piyush5784/GYMER-version2/assets/105655779/0056207e-c427-4afd-8ea0-c15b03524ec1
 
 ### Features include
 - 🔹User signup
